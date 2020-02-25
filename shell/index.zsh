@@ -1,3 +1,5 @@
+#!/bin/bash
+
 ########################################
 # switchaudio-osx - https://github.com/deweller/switchaudio-osx
 ########################################
@@ -24,9 +26,13 @@ function switch_audio_source () {
   s -t system -s "$SOUND_OUT"
 }
 
+# shellcheck disable=SC2139
 alias s1="switch_audio_source \"$S_INP_RAW\" \"$S_OUT_RAW\""        # raw
+# shellcheck disable=SC2139
 alias s2="switch_audio_source \"$S_INP_SIMPLE\" \"$S_OUT_SIMPLE\""  # simple
+# shellcheck disable=SC2139
 alias s3="switch_audio_source \"$S_INP_FANCY\" \"$S_OUT_FANCY\""    # fancy
+# shellcheck disable=SC2139
 alias s4="switch_audio_source \"$S_INP_PRO\" \"$S_OUT_PRO\""        # pro
 
 ########################################
