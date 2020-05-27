@@ -1,7 +1,5 @@
 #!/bin/bash
 
-echo oi
-
 ########################################
 # switchaudio-osx - https://github.com/deweller/switchaudio-osx
 ########################################
