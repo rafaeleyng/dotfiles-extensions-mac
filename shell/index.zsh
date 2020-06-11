@@ -51,13 +51,3 @@ function start_study () {
   open "/Applications/Tomato One.app/"
   echo "read: https://docs.google.com/document/d/1b1tTPc2Vgxip-g9ztQ7mYfQMPOF2dEOeTE3fNjkBRhM/edit"
 }
-
-########################################
-# audacity - https://apple.stackexchange.com/questions/380863/why-is-audacity-2-3-x-not-recording-audio-input-on-macos-catalina-plus-workarou
-########################################
-alias audacity="open /Applications/Audacity.app/Contents/MacOS/Audacity"
-
-########################################
-# ssh - for personal cluster
-########################################
-alias ssho="ssh -o \"UserKnownHostsFile /dev/null\""
