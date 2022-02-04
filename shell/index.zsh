@@ -9,11 +9,11 @@ S_OUT_RAW="MacBook Pro Speakers"
 S_INP_SIMPLE="External Microphone"
 S_OUT_SIMPLE="External Headphones"
 
-S_INP_FANCY="JBL LIVE650BTNC"
+S_INP_FANCY="Galaxy Buds+ (0135)"
 S_OUT_FANCY=$S_INP_FANCY
 
 S_INP_PRO="ARCANO AM-BLACK-1 " # yes, with a trailing space ¯\_(ツ)_/¯
-S_OUT_PRO="JBL LIVE650BTNC"
+S_OUT_PRO="Galaxy Buds+ (0135)"
 
 # BlackHole, see:
 # - https://github.com/ExistentialAudio/BlackHole
