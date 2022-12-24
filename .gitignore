@@ -1,0 +1,3 @@
+# Override any user-settings.
+# We don't want to ignore .vscode, for instance.
+!*
