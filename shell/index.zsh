@@ -1,4 +1,4 @@
-#!/bin/bash
+#!/bin/zsh
 
 ########################################
 # switchaudio-osx - https://github.com/deweller/switchaudio-osx
