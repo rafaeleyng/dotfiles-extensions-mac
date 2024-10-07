@@ -1,4 +1,4 @@
-# dotfiles-extensions-personal-mac
+# dotfiles-extensions-mac
 
 macOS extensions for https://github.com/rafaeleyng/dotfiles.
 
